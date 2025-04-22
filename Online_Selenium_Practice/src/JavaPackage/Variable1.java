@@ -13,6 +13,9 @@ public class Variable1 {
 		
 		x = 200;
 		System.out.println(x);
+		
+		int b = 500;
+		System.err.println(b);
 	}
 
 }
